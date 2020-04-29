@@ -2,7 +2,7 @@
 /**
  * CLase que va a implementar el Ordenamiento Rápido de un arrrayList.
  */
-import static org.junit.Assert.assertArrayEquals;
+
 import static org.junit.Assert.assertEquals;
 
 import java.util.ArrayList;
